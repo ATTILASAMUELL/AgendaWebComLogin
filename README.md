@@ -1,7 +1,8 @@
 > Sistema Cadastro de cliente Web com tela de login 🇧🇷
 
-> Tela Login
+> Tela Login:
 ![capaeadicionar](https://user-images.githubusercontent.com/76443540/139586234-c08bd801-d4a8-4e06-9a87-638120c52c7a.png)
+> Adicionar Clientes:
 ![tabela](https://user-images.githubusercontent.com/76443540/139586259-1486468a-1918-4920-9ab2-0478e9707f22.png)
 ![editando](https://user-images.githubusercontent.com/76443540/139586260-5783db76-be65-4509-aa5a-4d195b1327a9.png)
 ![exclusao](https://user-images.githubusercontent.com/76443540/139586264-c67d59a3-7350-4b55-86d4-df94a7587c5f.png)
