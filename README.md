@@ -1,5 +1,6 @@
-> Sistema Cadastro de cliente com tela de login 🇧🇷
+> Sistema Cadastro de cliente Web com tela de login 🇧🇷
 
+> Tela Login
 ![capaeadicionar](https://user-images.githubusercontent.com/76443540/139586234-c08bd801-d4a8-4e06-9a87-638120c52c7a.png)
 ![tabela](https://user-images.githubusercontent.com/76443540/139586259-1486468a-1918-4920-9ab2-0478e9707f22.png)
 ![editando](https://user-images.githubusercontent.com/76443540/139586260-5783db76-be65-4509-aa5a-4d195b1327a9.png)
@@ -30,13 +31,17 @@ Foi desenvolvido via Mysql, utilizando CRUD, criar,alterar,deletar e listar clie
 
 ### Sobre
 É um sistema com tela de login, para cadastrar clientes, alterar, deletar e listar.
-Na parte de Design Patterns ou padrões de projetos foi usado o MVC(Model,View,Controller).
+Na parte de Padrões de projetos foi usado o MVC(Model,View,Controller).
 
 ### Tecnologias Utilizadas
 
 <table>
   <tr>
-    <td>Java Swing </td>
+    <td>HTML 5</td>
+    <td>CSS 3</td>
+    <td>Java Script </td>
+    <td>Bootstrap </td>
+    <td>Java EE </td>
     <td>MySql </td>
     
     
